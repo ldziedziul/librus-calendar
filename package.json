@@ -1,0 +1,8 @@
+{
+  "name": "librus-calendar",
+  "version": "1.0.0",
+  "dependencies": {
+    "ical-generator": "^3.6.0",
+    "librus-api": "^2.8.2"
+  }
+}
